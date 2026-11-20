@@ -1,0 +1,12 @@
+node_modules/
+dist/
+tmp/
+.DS_Store
+.env*
+*.pem
+*.key
+*.log
+charlie-portfolio-site/
+DESIGN-IS-2026-07-10/
+public/audio/
+public/videos/

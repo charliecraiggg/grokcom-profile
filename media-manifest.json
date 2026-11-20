@@ -1,0 +1,77 @@
+{
+  "status": "local_only_not_uploaded",
+  "files": [
+    {
+      "path": "public/audio/fm-entertainment-stephen-chow.mp3",
+      "bytes": 47735056
+    },
+    {
+      "path": "public/audio/fm92-evening-news-20260717.mp3",
+      "bytes": 45262027
+    },
+    {
+      "path": "public/audio/news-search-20260718.mp3",
+      "bytes": 37482951
+    },
+    {
+      "path": "public/audio/ningbo-morning-news.mp3",
+      "bytes": 105938733
+    },
+    {
+      "path": "public/audio/typhoon-special-bavi.mp3",
+      "bytes": 216122925
+    },
+    {
+      "path": "public/videos/boat-documentary.m4v",
+      "bytes": 75674837
+    },
+    {
+      "path": "public/videos/civilization-overview.m4v",
+      "bytes": 332262117
+    },
+    {
+      "path": "public/videos/great-tit.m4v",
+      "bytes": 324268409
+    },
+    {
+      "path": "public/videos/industrial-checkin.m4v",
+      "bytes": 276920287
+    },
+    {
+      "path": "public/videos/intangible-new-year.m4v",
+      "bytes": 287579560
+    },
+    {
+      "path": "public/videos/living-water.m4v",
+      "bytes": 302815959
+    },
+    {
+      "path": "public/videos/ocean-diary.m4v",
+      "bytes": 444090237
+    },
+    {
+      "path": "public/videos/on-the-road.m4v",
+      "bytes": 236419732
+    },
+    {
+      "path": "public/videos/recitation.m4v",
+      "bytes": 365134602
+    },
+    {
+      "path": "public/videos/shi-zhiyong.m4v",
+      "bytes": 407358346
+    },
+    {
+      "path": "public/videos/tidal-voices.m4v",
+      "bytes": 428813858
+    },
+    {
+      "path": "public/videos/waiting-for-wind-ep1.m4v",
+      "bytes": 419323024
+    },
+    {
+      "path": "public/videos/waiting-for-wind-teaser.m4v",
+      "bytes": 103844190
+    }
+  ]
+}
