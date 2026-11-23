@@ -31,3 +31,7 @@ corepack pnpm dev --host 0.0.0.0
 J.W.C.O.D.E. 负责统筹 Codex 方面的任务；本仓库是两端共享代码的交接点。同一 Codex 账号不会自动复制本地文件或聊天历史，需要显式 clone/pull。
 
 每次开始前 `git pull --ff-only`，结束后检查差异并提交推送，避免两端同时修改相同文件；不要强推。
+
+## 微信小程序体验版
+
+2026 年 11 月 23 日，作品集小程序开发版 0.1.0 已上传微信，并设为体验版。源码和接手步骤见 [miniprogram/README.md](miniprogram/README.md)。网页和小程序分别维护，原画音视频尚未接入。

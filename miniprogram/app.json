@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/work/work"
+  ],
+  "window": {
+    "navigationBarTitleText": "陈嘉玮 · 作品集",
+    "navigationBarBackgroundColor": "#0e191b",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#0e191b",
+    "backgroundTextStyle": "dark"
+  }
+}

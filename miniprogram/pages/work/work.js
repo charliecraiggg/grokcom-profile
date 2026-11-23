@@ -1,0 +1,2 @@
+const {works,media}=require('../../content');
+Page({data:{work:null,video:'',failed:false},onLoad({id}={}){const work=works.find(entry=>entry.id===id);if(!work)return;this.setData({work,video:media[id]||''});wx.setNavigationBarTitle({title:work.title});},onVideoError(){this.setData({failed:true});},onShareAppMessage(){const {work}=this.data;return work?{title:work.title+' · 陈嘉玮作品集',path:'/pages/work/work?id='+work.id,imageUrl:work.poster}:{title:'陈嘉玮 · 作品集',path:'/pages/index/index'};}});
